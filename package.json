@@ -1,0 +1,30 @@
+{
+  "name": "rpi-traffic-lights",
+  "version": "1.0.0",
+  "description": "Traffic lights program on LED lights using Raspberry Pi GPIO ports.",
+  "main": "index.js",
+  "private": false,
+
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhinayMe/RPi-Traffic-Lights.git"
+  },
+  "keywords": [
+    "rpi",
+    "raspberrypi",
+    "traffic-lights",
+    "js",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Abhinay Me <chinnuabhi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbhinayMe/RPi-Traffic-Lights/issues"
+  },
+  "homepage": "https://github.com/AbhinayMe/RPi-Traffic-Lights#readme",
+}
