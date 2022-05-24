@@ -27,4 +27,7 @@
     "url": "https://github.com/AbhinayMe/RPi-Traffic-Lights/issues"
   },
   "homepage": "https://github.com/AbhinayMe/RPi-Traffic-Lights#readme",
+  "dependencies": {
+    "onoff": "^6.0.3"
+  }
 }
